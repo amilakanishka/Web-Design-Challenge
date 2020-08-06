@@ -1,0 +1,134 @@
+H1 {
+    color: rgb(4, 160, 152);
+}
+
+H2 {
+    color: rgb(4, 160, 152);
+}
+
+H3 {
+    color: rgb(4, 160, 152);
+}
+
+H4 {
+    color: rgb(4, 160, 152);
+}
+
+H5 {
+    color: rgb(4, 160, 152);
+}
+
+#btnhome{
+    padding: 20px;
+    background-color: rgb(4, 160, 152);
+    color: rgb(255, 255, 255);
+}
+
+#rightmenu{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    white-space: nowrap;
+}
+
+#navbarsExampleDefault {
+    position: absolute;
+    right: 10px;
+}
+
+
+#navbarSupportedContent{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    white-space: nowrap;
+}
+
+.container {
+    max-width: 1200px;
+    background-color: light;
+}
+
+body{
+    background-color: lightgray;
+}
+
+
+#navbar1{
+    background-color: #f8f9fa; 
+}
+
+#img1{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top:0;
+    left:0;
+}
+
+#img2{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top:0;
+    right:0;   
+}
+
+#img3{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top:0;
+    left:0;    
+}
+
+#img4{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top:0;
+    right:0;   
+}
+
+#img5{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top:0;
+    left:0;
+}
+
+#img6{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top:0;
+    right:0;   
+}
+
+#img7{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top:0;
+    left:0;    
+}
+
+#img8{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top:0;
+    right:0;   
+}
+
+/* Here we define some styles that will ONLY be applied at screen sizes below 800 pixels */
+@media (max-width: 1000px) {
+    #navbar1{
+        background-color: rgb(4, 160, 152); 
+    }
+
+    #comparissonitems <a>{
+        align-content: center;
+    }
+  }
